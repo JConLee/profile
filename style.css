@@ -1,0 +1,111 @@
+
+.container{
+ width: 600px;
+ margin: 0 auto;
+
+
+}
+
+.profile {
+  width:582px;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  border-radius: 19px;
+  padding: 20px;
+}
+
+.links{
+  width:626px;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  border-radius: 14px;
+
+}
+
+
+.card {
+ width:600px;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  border-radius: 19px;
+  padding: 14px;
+
+
+}
+
+.footer {
+  width:632px;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  border-radius: 19px;
+
+
+}
+
+#profileimg {
+  border-radius: 50%;
+
+
+
+}
+
+img {
+  width: 200px;
+  padding: 20px;
+
+}
+
+h1, h2, h3 {
+  font-family: 'Noto Serif', serif;
+  color: #D1D140;
+  line-height: 1;
+
+
+
+}
+
+
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+
+ul {
+list-style: none;
+padding: 16px ;
+
+ }
+
+p {
+   color: #375375;
+  font-family: 'Quicksand', sans-serif;
+  line-height: 20px;
+}
+
+body {
+ background-color: #F9F2FF;
+ font-family:
+ font-size: 18px;
+ line-height: 20px;
+
+
+}
+
+a:hover {
+background-color: #375375;
+
+}
+
+a {
+  font-size: 40px;
+  color: #D1D140;
+  text-decoration: none;
+  font-family: 'Noto Serif', serif;
+
+}
